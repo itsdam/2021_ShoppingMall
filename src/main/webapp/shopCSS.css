@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+
+	a, a:hover {
+				color: #000000;
+				text-decoration: none;
+	}
+	
+	h1 {
+		text-align: center;
+	}
+	fieldset {
+				text-align: center;
+	}
+	.dropdown {
+				margin-left: 230px;
+				text-align: center;
+	}
+	
+	.info {
+			margin-top: 15px;
+			margin-left: 230px;
+			text-align: center;
+	}
+	
+	.info2 {
+			margin-right: 40px;
+	}
+	
+	.info3 {
+			margin-right: 0px;
+	}
+	
+	.info4 {
+			text-align: right;
+	}
+	
+	.info5 {
+			text-align: center;
+			color: #A9A9A9;
+	}
+	
+	.info6 {
+			text-align: right;
+	}
+	
+	
+	.info7 {
+			margin-left: 130px;
+			text-align: left;
+	}
+	
+	.info8 {
+			text-align : center;
+	}
+	
+	.info9 {
+		margin-top: 15px;
+		margin-left: 80px;
+		text-align: center;
+	}
+
+	
+	.info10 {
+			width : 700px;
+		margin-left: 30px;
+		margin-top: 80px;
+		font-size : 20px;
+		text-align: left;
+	
+	}
+	
